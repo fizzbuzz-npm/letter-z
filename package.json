@@ -1,0 +1,19 @@
+{
+  "name": "letter-z",
+  "version": "1.0.0",
+  "description": "The lowercase letter \"z\"",
+  "homepage": "https://github.com/fizzbuzz-npm/letter-z",
+  "repository": "github:fizzbuzz-npm/letter-z",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "lint-fix": "eslint --fix index.js",
+    "test": "ava"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "eslint": "^6.5.1"
+  }
+}
